@@ -8,6 +8,7 @@ members = [
   "is-prime/script",
   "json/lib",
   "json/script",
+  "keccak/script",
   "regex/script",
   "rsa/script",
   "ssz-withdrawals/script",
